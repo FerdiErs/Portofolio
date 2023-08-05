@@ -1,0 +1,10 @@
+streamlit 
+pandas  
+seaborn 
+matplotlib
+Pillow
+numpy
+WordCloud
+ImageColorGenerator
+STOPWORDS
+scikit-learn==1.2.2
