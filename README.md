@@ -19,13 +19,13 @@ A sophisticated Sentiment Analysis and Aspect Categorization system was made to 
 
 # Technologies / Tools:
 
-Programming Languages: Python (Pandas, NumPy, Matplotlib, Seaborn)
-Machine Learning Libraries: Scikit-learn, TensorFlow, XGBoost, Linear Regression, Logistic Regression
-Natural Language Processing: NLTK, Sastrai
-Data Visualization: Tableau, Matplotlib, Seaborn, Looker Studio
-Statistical Analysis: Hypothesis testing
-Database Management: SQL, MySql
-Tools: Jupyter Notebook, Git, GitHub, Google Colab
-Data Preprocessing: Data cleaning, feature engineering
+1. Programming Languages: Python (Pandas, NumPy, Matplotlib, Seaborn)
+2. Machine Learning Libraries: Scikit-learn, TensorFlow, XGBoost, Linear Regression, Logistic Regression
+3. Natural Language Processing: NLTK, Sastrai
+4. Data Visualization: Tableau, Matplotlib, Seaborn, Looker Studio
+5. Statistical Analysis: Hypothesis testing
+6. Database Management: SQL, MySql
+7. Tools: Jupyter Notebook, Git, GitHub, Google Colab
+8. Data Preprocessing: Data cleaning, feature engineering
 
 My portfolio reflects my passion for turning data into actionable insights, my proficiency in leveraging cutting-edge tools, and my commitment to delivering impactful solutions. I'm excited to continue my journey in unraveling data's potential to drive innovation and transformation.
