@@ -8,3 +8,5 @@ dan berapa pekerja yang dibayar di bawah batas upah minimum?
 minimum dan berapa pabrik yang membayar pekerja di bawah batas upah
 minimum?
 ---
+## Dashboard
+https://lookerstudio.google.com/u/0/reporting/3fd00a6a-18ef-4ef2-8c97-4df061fa99ed/page/TEOjD 
